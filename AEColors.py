@@ -1,0 +1,5 @@
+orange = "#FF5B00"
+blue = "#2956B2"
+lightblue = "#659CEF"
+grey = "#7e7e7e"
+green = "#7DBD00"
